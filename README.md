@@ -18,6 +18,12 @@ I am also learning and working with...
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### I'm Learning From
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=62E08F)
+
 <!--
 **MariaEgbuna/MariaEgbuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
