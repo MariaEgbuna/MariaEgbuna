@@ -1,7 +1,7 @@
 
-# Hello, I'm Maria Ijeoma Egbuna 👋
+# Hello there, welcome to my Github Page 👋
 
-I am a self-taught data analyst with a B.S.c in Computer Science. My passion lies in transforming raw data into meaningful insights and compelling stories. I love using a variety of analytics tools to discover hidden narratives and tell stories through powerful visualizations.
+My name is Maria Egbuna and I am a self-taught data analyst with a B.S.c in Computer Science. My passion lies in transforming raw data into meaningful insights and compelling stories. I love using a variety of analytics tools to discover hidden narratives and tell stories through powerful visualizations.
 
 I am actively building a portfolio of projects that showcase my skills in data cleaning, analysis, and visualization.
 
