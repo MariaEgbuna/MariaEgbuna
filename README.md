@@ -26,7 +26,7 @@ My name is Maria Egbuna and I am a self-taught data analyst with a B.S.c in Comp
 ## 🌐 Let's Connect
 - [Twitter](https://x.com/AnalystMaria)
 - [Medium](https://medium.com/@ijeomahmaria)
-- [LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+- [LinkedIn](https://www.linkedin.com/in/maria-egbuna-87b078386)
 
 ---
 
