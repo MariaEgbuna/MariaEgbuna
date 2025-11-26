@@ -1,7 +1,7 @@
 
 # Hello there, welcome to my Github Page 👋
 
-My name is Maria Egbuna and I am a self-taught data analyst with a B.S.c in Computer Science. My passion lies in transforming raw data into meaningful insights and compelling stories. I love using a variety of analytics tools to discover hidden narratives and tell stories through powerful visualizations.
+My name is Maria and I am a self-taught data analyst with a B.S.c in Computer Science. My passion lies in transforming raw data into meaningful insights and compelling stories. I love using a variety of analytics tools to discover hidden narratives and tell stories through powerful visualizations.
 
 ## 🔍 What I’m Working On
 - Building a portfolio of real-world data projects
