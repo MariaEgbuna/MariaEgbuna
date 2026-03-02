@@ -27,4 +27,6 @@ I specialize in the intersection of data engineering and storytelling. I focus o
 
 ---
 
-Thanks for visiting my profile. Feel free to explore the projects in my portfolio. Contributions, suggestions, and collaborations are always welcome.
+Thanks for visiting my profile.  
+Feel free to explore the projects in my portfolio.  
+Contributions, suggestions, and collaborations are always welcome.
