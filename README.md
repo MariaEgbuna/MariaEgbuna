@@ -1,13 +1,14 @@
 # Hello there, welcome to my Github Page
 
-My name is Maria and I am a data analyst with a B.Sc. in Computer Science.  
+My name is Maria. I am a data analyst with a B.Sc. in Computer Science, and I am now learning frontend web development too.
 
-I specialize in the intersection of data engineering and storytelling. I focus on building robust architectures to capture data and transforming that information into meaningful insights through powerful visualizations.
+I like working where data and building things meet. On the data side, I design databases and turn raw information into insights people can actually use. On the development side, I build full working apps, from the database all the way to a live website.
 
 ## What I am Working On
-- Building state machine driven databases like Cine Registry to replace manual logging with procedural logic and Python automation.
-- Optimizing PostgreSQL environments with GIN indexing and materialized views to ensure sub-second analytical performance.
-- Crafting compelling narratives in Power BI by transforming raw metadata into actionable insights.
+- Building [The CineInks](https://cineinks.vercel.app), a Next.js entertainment review blog with TypeScript and Tailwind CSS, deployed on Vercel with a custom CMS setup.
+- Building the Cine Registry database, which replaces manual logging with automated Python scripts.
+- Speeding up PostgreSQL with indexing and materialized views so queries run fast.
+- Turning raw data into clear, useful reports in Power BI.
 
 ---
 
@@ -17,11 +18,16 @@ I specialize in the intersection of data engineering and storytelling. I focus o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## Let us Connect
-- [Twitter](https://x.com/eagercricket_)
+- [Twitter](https://x.com/eagercricket)
+- [Instagram](https://instagram.com/eagercricket)
 - [Medium](https://medium.com/@ijeomahmaria)
 - [LinkedIn](https://www.linkedin.com/in/maria-egbuna)
 
