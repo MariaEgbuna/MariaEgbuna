@@ -6,7 +6,7 @@ I like working where data and building things meet. On the data side, I design d
 
 ## Projects
 - **[The CineInks](https://cineinks.vercel.app):** A Next.js entertainment review blog built with TypeScript and Tailwind CSS, deployed on Vercel with a custom CMS setup. Completed and live.
-- **[CinePipe](https://github.com/MariaEgbuna/cinepipe):** A PostgreSQL media tracker for the movies and series I watch. Every write goes through stored procedures, triggers keep the data clean and audited, and Python scripts pull metadata from the TMDB API. Completed.
+- **[CinePipe](https://mariaegbuna.github.io/cinepipe/):** A PostgreSQL media tracker for the movies and series I watch. Every write goes through stored procedures, triggers keep the data clean and audited, and Python scripts pull metadata from the TMDB API. Completed.
 
 ## What I Enjoy Working On
 - Designing databases that keep their own data clean, with stored procedures and triggers.
