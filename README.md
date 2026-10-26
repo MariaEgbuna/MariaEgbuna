@@ -11,9 +11,9 @@ I like building things that work from start to finish. On the frontend, I work w
 
 ## What I Enjoy Working On
 - Building responsive frontends with Next.js, TypeScript, and Tailwind CSS.
-- Connecting apps to APIs and keeping secrets like API keys safe on the server.
+- Connecting apps to APIs.
 - Designing databases that keep their own data clean, with stored procedures and triggers.
-- Speeding up PostgreSQL with indexing so queries run fast.
+- Speeding up PostgreSQL with indexing.
 
 ### Tools
 
