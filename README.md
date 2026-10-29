@@ -1,12 +1,12 @@
 # Hello there, welcome to my GitHub Page
 
-My name is Maria. I have a B.Sc. in Computer Science and I am building my career as a web developer.
+My name is Maria. I have a B.Sc. in Computer Science, and I am building my career as a web developer.
 
 I like building things that work from start to finish. On the frontend, I work with Next.js, TypeScript, and Tailwind CSS. I also bring a database background from my earlier work with data, so I am comfortable with PostgreSQL and SQL behind an app.
 
 ## Projects
 - **[The CineInks](https://cineinks.vercel.app):** A Next.js entertainment review blog built with TypeScript and Tailwind CSS, deployed on Vercel with a custom CMS setup. Completed and live.
-- **[CinePick](https://github.com/MariaEgbuna/cinepick):** A movie discovery app built with Next.js, TypeScript, and Tailwind CSS. Browse trending movies, search, watch trailers, see the cast, save a watchlist, or get a random pick, all powered by the TMDB API. Light and dark theme, with loading, error, and not-found states. Completed.
+- **[ReelNook](https://github.com/MariaEgbuna/ReelNook):** A movie discovery app built with Next.js, TypeScript, and Tailwind CSS. Browse trending movies, search, watch trailers, see the cast, save a watchlist, or get a random pick, all powered by the TMDB API. Light and dark theme, with loading, error, and not-found states. Completed.
 - **[CinePipe](https://mariaegbuna.github.io/cinepipe/):** A PostgreSQL media tracker for the movies and series I watch. Every write goes through stored procedures, triggers keep the data clean and audited, and Python scripts pull metadata from the TMDB API. Completed.
 
 ## What I Enjoy Working On
